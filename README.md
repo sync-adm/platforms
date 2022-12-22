@@ -78,7 +78,7 @@ By using Next.js and Vercel, [Super](https://super.so/) has fast, globally distr
 2. [Typedream](https://typedream.com)
 3. [Makeswift](https://www.makeswift.com/)
 
-### 3. B2B2C platforms
+### 3. B2B2C platforms 
 
 Multi-tenant authentication, login, and access controls.
 
